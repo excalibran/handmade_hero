@@ -82,6 +82,8 @@ RenderWierdGradient(win32_offscreen_buffer Buffer, int BlueOffset, int GreenOffs
 
 }
 
+//extraneous comment
+
 internal void
 Win32ResizeDIBSection(win32_offscreen_buffer *Buffer, int Width, int Height){
 
